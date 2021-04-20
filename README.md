@@ -2,7 +2,7 @@
 - 👀 I’m interested in website design & layouts.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 💞️ I’m looking to collaborate on a small nonprofit educational website.
-- 📫 Discord is Null#1924
+- 📫 Coming soon.
 
 <!---
 AkioPascal/AkioPascal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
